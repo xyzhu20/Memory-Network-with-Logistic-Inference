@@ -1,2 +1,2 @@
 # LIMN
-Code for Memory Network with Logistic Inference
+Code for Memory Network with Logistic Inference (LIMN)
